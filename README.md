@@ -1,6 +1,6 @@
-#BigDataManager#
+# BigDataManager
 
-##Installazione##
+## Installazione
 * Effettuare una pull dal repository
 * Lanciare i seguenti comandi
 
@@ -12,7 +12,7 @@ npm install
 N.B.
 prima di lanciare npm install verificare che mongo db sia spento (bug riscontrato)
 
-##Primo Avvio##
+## Primo Avvio
 
 * Avviare mongo
 
@@ -84,7 +84,7 @@ exec node /home/giuseppe/node/bigdatamanager/bin/www >> /var/log/bigDataManager.
 * lanciare il servizio creato con: sudo service bigDataManager start
 
 
-enjoy!
+Enjoy!
 
 
 
